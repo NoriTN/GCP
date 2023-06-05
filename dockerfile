@@ -1,2 +1,2 @@
-docker build -t test-gcp .
-docker run test-gcp
+docker build test-gcp2 .
+docker run test-gcp2
