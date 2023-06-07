@@ -1,0 +1,7 @@
+build:
+	-name:'test-gcp3:latest'
+	args: ["build", "-t", "test-gcp3:latest"
+
+push:
+- name:
+  args: ["push","test-gcp3:latest"]
